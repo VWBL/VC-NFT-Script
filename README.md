@@ -1,6 +1,6 @@
-## NFT with VC(Verifiable Credential) sample code
+## NFT with VC(Verifiable Credential) script
 
-This sample code is issuing and verifying NFT with VC(Verifiable Credential). VC functionality add a verification layer to ensure the authenticity of NFT issuers. This uses [veramo](https://veramo.io/) as a vc framework.
+This script is issuing and verifying NFT with VC(Verifiable Credential). VC functionality add a verification layer to ensure the authenticity of NFT issuers. This uses [veramo](https://veramo.io/) as a vc framework.
 
 ## Usage
     yarn
